@@ -1,5 +1,5 @@
 {
-  "name": "service-pushworker",
+  "name": "service-mq-pushworker",
   "version": "0.0.1",
   "description": "Push/Worker library for microservices, built on RabbitMQ",
   "main": "./lib/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Respondly/service-pushworker"
+    "url": "https://github.com/hharnisc/service-mq-pushworker"
   },
   "keywords": [
     "microservice,worker,queue,push,rabbitmq,rabbit,js"
@@ -35,6 +35,6 @@
     "email": "hharnisc@gmail.com",
     "url": "https://hharnisc.github.io"
   },
-  "homepage": "https://github.com/Respondly/service-pushworker",
+  "homepage": "https://github.com/hharnisc/service-mq-pushworker",
   "license": "MIT"
 }
